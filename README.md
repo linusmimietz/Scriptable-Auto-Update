@@ -19,7 +19,7 @@ module.exports = {
   main
 };
 ```
-Copy the content from main.js and replace the `scriptName` and `scriptUrl` with your custom parameters. Then simply paste it into Scriptable!
+Copy the content from *main.js* and replace the `scriptName` and `scriptUrl` with your custom values. Then simply paste it into Scriptable!
 
 ## Example
 Take a look inside the example folder to see an implementation.  
