@@ -19,7 +19,7 @@ module.exports = {
   main
 };
 ```
-Copy the content from *main.js* and replace the `scriptName` and `scriptUrl` with your custom values. Then simply paste it into Scriptable. The wrapper will automatically load and update your code from the URL.
+Copy the content from *main.js* and add your custom values to the `scriptName` and `scriptUrl` variables at the top of the file. Then simply paste it into Scriptable. The wrapper will automatically load and update your code from the URL.
 
 ## Example
 Take a look inside the example folder to see an implementation example.  
