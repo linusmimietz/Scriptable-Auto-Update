@@ -13,13 +13,13 @@ I'm a big fan of the [Scriptable](https://scriptable.app) app. It's an excellent
 * Executes your code every time it gets run
 
 ## Usage
-The wrapper will run the main() function of your code every time it gets executed. Therefore it's necessary to export the function at the end of your code like so:
+The wrapper will run the main() function of your code every time it gets executed. Therefore it's necessary to export the function at the end of your file like so:
 ```javascript
 module.exports = {
   main
 };
 ```
-Copy the content from *main.js* and replace the `scriptName` and `scriptUrl` with your custom values. Then simply paste it into Scriptable!
+Copy the content from *main.js* and replace the `scriptName` and `scriptUrl` with your custom values. Then simply paste it into Scriptable. The wrapper will automatically load and update your code from the URL.
 
 ## Example
 Take a look inside the example folder to see an implementation.  
