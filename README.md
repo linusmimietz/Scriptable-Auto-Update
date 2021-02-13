@@ -1,5 +1,5 @@
 # Scriptable Auto Update
-This simple wrapper for your [Scriptable](https://scriptable.app) code automatically updates it every day.
+This simple wrapper for your [Scriptable](https://scriptable.app) code automatically updates it locally every day.
   
 ![Loop GIF](https://i.imgur.com/iEFhyVq.gif)
 
