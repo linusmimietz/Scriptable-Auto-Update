@@ -3,7 +3,7 @@ This simple wrapper for your [Scriptable](https://scriptable.app) code automatic
   
 ![Loop GIF](https://i.imgur.com/iEFhyVq.gif)
 
-## Why did I develop it?
+## Motivation
 I'm a big fan of the [Scriptable](https://scriptable.app) app. It's an excellent tool for creating custom widgets, for example. When sharing my code with other people, I didn't find an easy way to fix bugs or add features afterward. This wrapper aims to solve this challenge.
 
 ## Features
