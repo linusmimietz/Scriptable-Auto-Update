@@ -4,7 +4,7 @@ This simple wrapper for your [Scriptable](https://scriptable.app) code automatic
 ![Loop GIF](https://i.imgur.com/iEFhyVq.gif)
 
 ## Why did I develop it?
-I like the [Scriptable app](https://scriptable.app). It's an excellent tool for creating custom widgets, for example. When sharing the code with other people, I didn't find any easy way to fix bugs or add features afterward. This wrapper aims to solve this challenge.
+I'm a big fan of the [Scriptable](https://scriptable.app) app. It's an excellent tool for creating custom widgets, for example. When sharing the code with other people, I didn't find any easy way to fix bugs or add features afterward. This wrapper aims to solve this challenge.
 
 ## Features
 * Automatically downloads your latest code every day from a URL
@@ -23,7 +23,7 @@ Copy the content from main.js and replace the scriptName and scriptUrl with your
 
 ## Example
 Take a look inside the example folder to see an implementation.  
-Wanna try it out? Then simply copy the content of example/main.js and paste it into Scriptable!
+Want to try it out? Then simply copy the content of example/main.js and paste it into Scriptable!
 
 ## License
 This repository is available under the [MIT license](https://opensource.org/licenses/MIT).
